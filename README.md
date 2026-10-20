@@ -4,6 +4,8 @@
 
 **An interactive Eid greeting card with balloons, confetti, and a personal message**
 
+[🔗 Live Demo](https://alshaimaa00.github.io/HappyEid-Card/)
+
 </div>
 
 ---
@@ -62,6 +64,19 @@ HappyEid-Card
 
 ---
 
+## ▶️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Alshaimaa00/HappyEid-Card.git
+   ```
+2. Open `index.html` in your browser.
+3. That's it! No installation or build step needed.
+
+> An internet connection is needed for the confetti library, which loads from a CDN.
+
+---
+
 ## 🎨 Design
 
 - **Background:** Plum, blue, and green gradient
@@ -72,6 +87,10 @@ HappyEid-Card
 
 ## ℹ️ More Information
 
+[🔗 Live Demo](https://alshaimaa00.github.io/HappyEid-Card/)
+
 [🔗 Repository](https://github.com/Alshaimaa00/HappyEid-Card)
 
 ---
+
+
